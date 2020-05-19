@@ -433,8 +433,13 @@ header h3 {
   margin-right: 20px;
 }
 
+.testimony-header h3 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
 .testimony-header h4 {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .testimony-card blockquote {
@@ -667,6 +672,14 @@ footer img {
 
   .details-item li {
     margin-bottom: 15px;
+  }
+
+  .testimony-header h3 {
+    font-size: 1.25rem;
+  }
+
+  .testimony-header h4 {
+    font-size: 1rem;
   }
 
   .testimony-card blockquote {
