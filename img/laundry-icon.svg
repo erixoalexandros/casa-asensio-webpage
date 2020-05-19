@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 512 512"
+   version="1.1"
+   sodipodi:docname="b2c290b3-84c7-4500-b9da-b8b7908662f5.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>washer-glyph</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title6">washer-glyph</title>
+  <path
+     class="cls-1"
+     d="M480.78,118.63V43.71A43.76,43.76,0,0,0,437.07,0H74.93A43.76,43.76,0,0,0,31.22,43.71v74.93ZM412.1,50a12.49,12.49,0,1,1-12.49,12.49A12.49,12.49,0,0,1,412.1,50Zm-50,0a12.49,12.49,0,1,1-12.49,12.49A12.49,12.49,0,0,1,362.15,50Z"
+     id="path8"
+     style="fill:#50543d;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M256,206A106.15,106.15,0,1,0,362.15,312.2,106.27,106.27,0,0,0,256,206Z"
+     id="path10"
+     style="fill:#50543d;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M31.22,143.61V468.29A43.76,43.76,0,0,0,74.93,512H437.07a43.76,43.76,0,0,0,43.71-43.71V143.61ZM256,443.32c-72.3,0-131.12-58.82-131.12-131.12S183.7,181.07,256,181.07,387.12,239.9,387.12,312.2,328.3,443.32,256,443.32Z"
+     id="path12"
+     style="fill:#50543d;fill-opacity:1" />
+</svg>
